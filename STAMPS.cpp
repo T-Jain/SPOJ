@@ -1,3 +1,8 @@
+/*
+The idea is simple. We sort the input array and pick the numbers starting from the largest.
+If at any moment, our sum is greater or equal to what is required, we exit the loop.
+*/
+
 #include <iostream>
 #include <algorithm>
 using namespace std;
